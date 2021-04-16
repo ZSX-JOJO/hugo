@@ -13,7 +13,7 @@ require (
 	github.com/bep/gitmap v1.1.2
 	github.com/bep/godartsass v0.12.0
 	github.com/bep/golibsass v0.7.0
-	github.com/bep/gowebp v0.1.0 // indirect
+	github.com/bep/gowebp v0.1.0
 	github.com/bep/tmc v0.5.1
 	github.com/cli/safeexec v1.0.0
 	github.com/disintegration/gift v1.2.1
@@ -23,7 +23,7 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.11.3
 	github.com/fsnotify/fsnotify v1.4.9
-	github.com/getkin/kin-openapi v0.39.0
+	github.com/getkin/kin-openapi v0.54.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.2.2
 	github.com/gobwas/glob v0.2.3
@@ -57,7 +57,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
 	github.com/tdewolff/minify/v2 v2.9.15
-	github.com/yuin/goldmark v1.3.2
+	github.com/yuin/goldmark v1.3.5
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
 	gocloud.dev v0.20.0
 	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb
